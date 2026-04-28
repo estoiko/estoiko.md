@@ -1,4 +1,3 @@
-# my notes 
-
-| date | name | link | 
-| --- | --- | --- |
+# notes
+---
+nothing here, for now
