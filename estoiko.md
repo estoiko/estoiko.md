@@ -3,13 +3,11 @@
 ## whoami
 ![](src/media/frogs-slide.gif)
 
-*you can see my projects here:* [click]()
+*cs student, lazy ass* 
 
-## notes
-- [all notes](src/notes/notes.html)
-
-## special 
-- [*google drive shared folder*](https://drive.google.com/drive/folders/1bGF1KXkmoGoYSeEtNfK3NSa15i0AqWmI?usp=sharing)
+## [notes](src/notes/notes.html)
+- [README.md](src/notes/notes.html)
 
 ## links
-[telegram](https://t.me/yewik0)       [github](https://github.com/estoiko)       [resume](https://google.com)
+|[telegram](https://t.me/emorgott)|[github](https://github.com/estoiko)|[shared drive](https://drive.google.com/drive/folders/1bGF1KXkmoGoYSeEtNfK3NSa15i0AqWmI?usp=sharing)|
+| ---- | ---- | ---- |

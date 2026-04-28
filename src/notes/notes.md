@@ -1,3 +1,4 @@
 # notes
 ---
-nothing here, for now
+
+- [README.md](readme.html)
